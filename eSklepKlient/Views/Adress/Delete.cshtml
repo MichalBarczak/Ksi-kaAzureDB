@@ -1,0 +1,57 @@
+﻿@model Modele.Adres
+
+@{
+    ViewData["Title"] = "Usuń";
+}
+
+<h1>Usuń</h1>
+
+<h3>Czy na pewno chcesz usunąć adres?</h3>
+<div>
+    <h4>Adres</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ulica)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ulica)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumerDomu)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumerDomu)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumerMieszkania)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumerMieszkania)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Miasto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Miasto)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KodPocztowy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KodPocztowy)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Państwo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Państwo)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Powrót do listy</a>
+    </form>
+</div>

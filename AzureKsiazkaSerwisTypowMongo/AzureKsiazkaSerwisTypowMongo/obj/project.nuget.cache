@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7IGygkGDLRECXN8+V8fFtvYZIMQRTVL2gv2Rhw3g+pd2gDxmZPtdKRm01IiVO/I9hSg1UN0yn5RVY2CO8djqQA==",
+  "dgSpecHash": "a8a47HpqnFJfS7JRmOpAxoY0Xh1H5E7ibRMZoKKHFkjmB0FMelwThGuHRbhi3FtQNVCJjMP0F5cSWqZLQ6FKkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
+  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michal\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\michal\\.nuget\\packages\\azure.data.tables\\12.2.1\\azure.data.tables.12.2.1.nupkg.sha512",

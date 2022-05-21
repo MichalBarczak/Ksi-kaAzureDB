@@ -1,0 +1,54 @@
+﻿@model Modele.Adres
+
+@{
+    ViewData["Title"] = "Szczegóły";
+}
+
+<h1>Szczegóły</h1>
+
+<div>
+    <h4>Adres</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Ulica)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Ulica)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumerDomu)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumerDomu)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NumerMieszkania)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NumerMieszkania)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Miasto)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Miasto)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KodPocztowy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KodPocztowy)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Państwo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Państwo)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edytuj" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Powrót do listy</a>
+</div>

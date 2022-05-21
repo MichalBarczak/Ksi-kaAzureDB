@@ -1,0 +1,58 @@
+﻿@model Modele.Zamowienie
+
+@{
+    ViewData["Title"] = "Usuń";
+}
+
+<h1>Usuń</h1>
+
+<h3>Czy napewno chcesz usunąć te zamówienie?</h3>
+<div>
+    <h4>Zamówienie</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cena)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cena)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CenaDostawy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CenaDostawy)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Upust)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Upust)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SposobDostawy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SposobDostawy)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SposobPlatnosci)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SposobPlatnosci)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StatusZamowienia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StatusZamowienia)
+        </dd>
+    </dl>
+</div>
+<div>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Powrót do Listy</a>
+    </form>
+</div>

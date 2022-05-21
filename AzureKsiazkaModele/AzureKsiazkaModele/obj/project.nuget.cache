@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QD+j0ZNdSb0ZZyUrUIuh1f2lxBcW0kbjbEEZlKzIxYURCMdAMlZI9Fie+Qku8bY7WQAe/LyhFxUi/keVtWFuOQ==",
+  "dgSpecHash": "AK4S6j4IrFOm1nfZvNuTsAwS3pOVIyagOhu9zC+xnu5o5naFh1Lh9QCMSXvDvlz446hjVFIXRPR2CrDS9vbgnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
+  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michal\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\michal\\.nuget\\packages\\azure.data.tables\\12.2.1\\azure.data.tables.12.2.1.nupkg.sha512",

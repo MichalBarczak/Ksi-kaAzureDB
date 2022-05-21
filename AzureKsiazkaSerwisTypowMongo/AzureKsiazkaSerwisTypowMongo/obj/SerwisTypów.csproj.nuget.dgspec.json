@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {}
+    "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {}
   },
   "projects": {
-    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
+    "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
         "projectName": "Interfejsy",
-        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
         "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\obj\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
-                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
+              "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+    "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
         "projectName": "Modele",
-        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
         "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\obj\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {
+    "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
         "projectName": "SerwisTypów",
-        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
         "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\obj\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,11 +170,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
-                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj"
+              "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj"
               },
-              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
-                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
+              "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
               }
             }
           }

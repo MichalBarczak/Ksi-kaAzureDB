@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsfq7me1tWH9ugncvKT4TH/noBufurFCiCEa1m8e0Jlfxd0x3oEqIQbXXci/NwHtg2+54aVqbxBB5ThiwRT5BA==",
+  "dgSpecHash": "L4cH1BfA2xsXJ/RmCMiDN8AfsfvWKhba2eKksGpLplZrHURjiGOjIEJ3rw+BxQeqAQxJivFgaqOYPRz3qVubuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisMgazynTable\\AzureKsiazkaSerwisMgazynTable\\SerwisMagazynu.csproj",
+  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisMgazynTable\\AzureKsiazkaSerwisMgazynTable\\SerwisMagazynu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michal\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\michal\\.nuget\\packages\\azure.data.tables\\12.2.1\\azure.data.tables.12.2.1.nupkg.sha512",

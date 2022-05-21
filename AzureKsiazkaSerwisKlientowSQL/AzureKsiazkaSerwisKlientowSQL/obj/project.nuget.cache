@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6QNZVnooOTp8dg6yjKVkYoi2aJ1mRCyLuoJBzAv/d939Ft7+ygTV3gitR10krGnUA47BKRWx68nnCie4pBmew==",
+  "dgSpecHash": "XfGnX8p5WdRXGBuXD9aGUWUDhJ+pxv5Q5hv/MSlaJb4Z49EBryJNMtjWFSI7QkQU3oXo5NxpZFsc63We3ETVsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisKlientowSQL\\AzureKsiazkaSerwisKlientowSQL\\SerwisKlientów.csproj",
+  "projectFilePath": "C:\\Users\\michal\\Desktop\\AzureDB\\Ksi-kaAzureDB\\AzureKsiazkaSerwisKlientowSQL\\AzureKsiazkaSerwisKlientowSQL\\SerwisKlientów.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michal\\.nuget\\packages\\azure.core\\1.20.0\\azure.core.1.20.0.nupkg.sha512",
     "C:\\Users\\michal\\.nuget\\packages\\azure.data.tables\\12.2.1\\azure.data.tables.12.2.1.nupkg.sha512",
