@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
+        "projectName": "Interfejsy",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
+        "projectName": "Modele",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Azure.Data.Tables": {
+              "target": "Package",
+              "version": "[12.2.1, )"
+            },
+            "CassandraCSharpDriver": {
+              "target": "Package",
+              "version": "[3.17.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
+        "projectName": "SerwisTypów",
+        "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\SerwisTypów.csproj",
+        "packagesPath": "C:\\Users\\michal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaSerwisTypowMongo\\AzureKsiazkaSerwisTypowMongo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\michal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaInterfejsy\\AzureKsiazkaInterfejsy\\Interfejsy.csproj"
+              },
+              "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj": {
+                "projectPath": "C:\\Users\\michal\\Desktop\\AzureDB\\AzureKsiazkaModele\\AzureKsiazkaModele\\Modele.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CassandraCSharpDriver": {
+              "target": "Package",
+              "version": "[3.17.1, )"
+            },
+            "Gremlin.Net": {
+              "target": "Package",
+              "version": "[3.5.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            },
+            "MongoSharp": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

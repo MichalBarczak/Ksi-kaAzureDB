@@ -1,0 +1,15 @@
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\Interfejsy.deps.json
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\Interfejsy.dll
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\ref\Interfejsy.dll
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\Interfejsy.pdb
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.AssemblyInfoInputs.cache
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.AssemblyInfo.cs
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.csproj.CopyComplete
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.dll
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\ref\Interfejsy.dll
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.pdb
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\Modele.dll
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\bin\Debug\net5.0\Modele.pdb
+C:\Users\michal\Desktop\AzureDB\AzureKsiazkaInterfejsy\AzureKsiazkaInterfejsy\obj\Debug\net5.0\Interfejsy.csproj.AssemblyReference.cache

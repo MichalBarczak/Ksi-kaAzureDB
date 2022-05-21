@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "636615d6-38f6-49ad-a65d-5281bafed9b8": {
+      "ProjectGuid": "636615d6-38f6-49ad-a65d-5281bafed9b8",
+      "DisplayName": "eSklep",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    },
+    "df9f3ff2-bc07-4ca7-bf8a-1b83e3dc3a1b": {
+      "ProjectGuid": "df9f3ff2-bc07-4ca7-bf8a-1b83e3dc3a1b",
+      "DisplayName": "eSklep",
+      "ColorIndex": 1
+    },
+    "2931eeb9-428d-4a5e-961b-e91a6c26c933": {
+      "ProjectGuid": "2931eeb9-428d-4a5e-961b-e91a6c26c933",
+      "DisplayName": "SerwisTypów",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
